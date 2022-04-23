@@ -1,4 +1,7 @@
 # Reddit Comment Bot
+
+fork and fix from [reddit-comment-bot](https://github.com/yashar1/reddit-comment-bot)
+
 This Reddit Comment Bot is a python-based auto-responder.
   - Pick a subreddit to scan
   - Designate a specific comment to search for
